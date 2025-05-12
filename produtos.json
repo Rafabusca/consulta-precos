@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "iPhone 14 Pro",
+    "preco": "R$ 6.499,00",
+    "loja": "Loja Exemplo",
+    "link": "https://lojaexemplo.com/produto/iphone14"
+  },
+  {
+    "nome": "PlayStation 5",
+    "preco": "R$ 3.999,00",
+    "loja": "Loja Games",
+    "link": "https://lojagames.com/ps5"
+  }
+]
